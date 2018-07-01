@@ -1,6 +1,6 @@
 # articles
 
-记录文章笔记
+## 区块链
 
 [搭建Ethereum私有链操作笔记][aadd6ed0]
 

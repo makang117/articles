@@ -10,3 +10,6 @@
 
   [2c228c1e]:
   https://github.com/makang117/articles/blob/master/blog/go%E5%AE%89%E8%A3%85%E7%AC%94%E8%AE%B0.md "Go环境安装笔记"
+
+  ## Python
+  

@@ -4,7 +4,7 @@
 
 创建完成后，会初始化爬虫目录，并创建项目文件模板
 
-![scrapyproject](images/2018/07/scrapyproject.png)
+![scrapyproject](images/scrapyproject.png)
 
 ```
 finspider/
